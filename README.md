@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaic4o&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br />
 
-<!--
-**Gaic4o/Gaic4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Minsu Kim 🌟<br/>
+I am very interested in Agile methodologies, communication, and frontend platform development.
 
-Here are some ideas to get you started:
+## Library Contributions 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
+- [pmndrs/drei](https://github.com/pmndrs/drei/pulls?q=is%3Apr+author%3AGaic4o+)
+- [nextui-org/nextui](https://github.com/nextui-org/nextui/pulls?q=is%3Apr+author%3AGaic4o+)
+- [chakra-ui/ark](https://github.com/chakra-ui/ark/pulls?q=is%3Apr+author%3AGaic4o+is%3Aclosed+)
+
+## Documentation 📝
+
+- [ssi02014/react-query-tutorial](https://github.com/ssi02014/react-query-tutorial/pulls?q=is%3Apr+author%3AGaic4o+)
+
