@@ -1,5 +1,4 @@
 
-### Hello, I'm Minsu Kim 🌟<br/>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
